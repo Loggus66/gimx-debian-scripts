@@ -1,0 +1,5 @@
+gimx (8.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Matlo <mat.lau@laposte.net>  Sat, 11 Dec 2021 00:48:03 +0500
