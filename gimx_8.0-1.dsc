@@ -6,7 +6,7 @@ Version: 8.0-1
 Maintainer: Matlo <mat.lau@laposte.net>
 Homepage: https://github.com/matlo/GIMX
 Standards-Version: 4.5.1
-Build-Depends: debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 12), libwxgtk3.0-dev, libusb-1.0-0-dev, libcurl4-openssl-dev, libxi-dev, libxml2-dev, libbluetooth-dev, libncurses-dev, libmhash-dev
 Package-List:
  gimx deb unknown optional arch=any
 Checksums-Sha1:
