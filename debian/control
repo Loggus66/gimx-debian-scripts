@@ -11,7 +11,7 @@ Rules-Requires-Root: no
 
 Package: gimx
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, libbluetooth3, libmhash2, libwxbase3.0-0v5, libwxgtk3.0-0v5
 Description: Game Input MultipleXer
  This software emulates a game controller and allows to control a game console with mice, keyboards, and joysticks.
 
